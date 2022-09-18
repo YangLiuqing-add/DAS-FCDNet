@@ -8,5 +8,38 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/FCDNet?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
 
-[[Paper]](https://www.researchgate.net/publication/363485306_Denoising_of_distributed_acoustic_sensing_DAS_data_using_supervised_deep_learning)
-[[Demo code]]
+**Denoising of distributed acoustic sensing (DAS) data using supervised deep learning**
+======
+
+## Description
+
+**FCDNet** is a supervised-learning-based deep learning framework for denoising the FORGE DAS dataset with different types of noise. It has an U-shaped structure, containing several downsampling convolutional blocks (DCB) and upsampling convolutional blocks (UCB). **FCDNet** has been demonstrated on invisible, wakly visible, and visible signals denoising immediately and efficiently. 
+
+## Reference
+If you find this package useful, please do not forget to cite the following paper.
+
+    Yang, L., Fomel, S., Wang, S., Chen, X., Saad, O.M., and Chen, Y., (2023). Denoising of distributed acoustic sensing data using supervised deep learning, Geophysics, 88(1), doi: 10.1190/geo2022-0138.1.
+    
+BibTeX:
+	
+	@article{DASD2023,
+	  title={Denoising of distributed acoustic sensing data using supervised deep learning},
+	  author={Liuqing Yang and Sergey Fomel and Shoudong Wang and Xiaohong Chen and Wei Chen and Omar M. Saad and Yangkang Chen},
+	  journal={Geophysics},
+	  year=2023,
+	  volume=88,
+	  issue=1,
+	  pages={in press},
+	  doi={10.1190/geo2022-0138.1},
+	}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
