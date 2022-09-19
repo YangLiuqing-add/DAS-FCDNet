@@ -32,9 +32,12 @@ BibTeX:
 	  pages={in press},
 	  doi={10.1190/geo2022-0138.1},
 	}
+	
+------------------- 
   
-  
-  
+## License
+    GNU General Public License, Version 3
+    (http://www.gnu.org/copyleft/gpl.html)  
   
   
   
