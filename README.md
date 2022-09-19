@@ -27,9 +27,9 @@ BibTeX:
 	  title={Denoising of distributed acoustic sensing data using supervised deep learning},
 	  author={Liuqing Yang and Sergey Fomel and Shoudong Wang and Xiaohong Chen and Wei Chen and Omar M. Saad and Yangkang Chen},
 	  journal={Geophysics},
-	  year=2023,
-	  volume=88,
-	  issue=1,
+	  year={2023},
+	  volume={88},
+	  issue={1},
 	  pages={in press},
 	  doi={10.1190/geo2022-0138.1},
 	}
@@ -41,7 +41,7 @@ BibTeX:
   
 -------------------   
 ## Example
-   The [best trained model](https://github.com/YangLiuqing-add/DAS-FCDNet/releases/tag/best_model) can be downloaded directly.
+   The [best trained model](https://github.com/YangLiuqing-add/DAS-FCDNet/releases/tag/best_model) can be downloaded directly. Test_data only display three real DAS data, which are invisible, wak visible, and visible signals. All DAS data can refer to [here](https://github.com/chenyk1990/dasdenoising-dataonly).
    
 -------------------   
 ## Contact
