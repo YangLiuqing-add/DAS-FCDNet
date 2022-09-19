@@ -15,6 +15,7 @@
 
 **FCDNet** is a supervised-learning-based deep learning framework for denoising the FORGE DAS dataset with different types of noise. It has an U-shaped structure, containing several downsampling convolutional blocks (DCB) and upsampling convolutional blocks (UCB). **FCDNet** has been demonstrated on invisible, wakly visible, and visible signals denoising immediately and efficiently. 
 
+------------------- 
 ## Reference
 If you find this package useful, please do not forget to cite the following paper.
 
@@ -33,13 +34,14 @@ BibTeX:
 	  doi={10.1190/geo2022-0138.1},
 	}
 	
-------------------- 
-  
+-------------------   
 ## License
     GNU General Public License, Version 3
     (http://www.gnu.org/copyleft/gpl.html)  
   
-  
+-------------------   
+## Example
+    
   
   
   
