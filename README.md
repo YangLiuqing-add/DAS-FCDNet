@@ -41,8 +41,10 @@ BibTeX:
   
 -------------------   
 ## Example
-    
-  
+   The [[best trained model]](https://github.com/YangLiuqing-add/DAS-FCDNet/releases/tag/best_model)best trained model can be downloaded directly.
+   
+ 
+ 
   
   
   
