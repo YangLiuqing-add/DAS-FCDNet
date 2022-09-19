@@ -39,6 +39,11 @@ BibTeX:
     GNU General Public License, Version 3
     (http://www.gnu.org/copyleft/gpl.html)  
   
+-------------------    
+## Dependence Packages
+* Tensforflow-gpu 1.9.0 
+* Keras 2.2.5
+
 -------------------   
 ## Example
    The [best trained model](https://github.com/YangLiuqing-add/DAS-FCDNet/releases/tag/best_model) can be downloaded directly. Test_data only display three real DAS data, which are invisible, wak visible, and visible signals. 
