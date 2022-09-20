@@ -13,7 +13,7 @@
 
 ## Description
 
-**FCDNet** is a supervised-learning-based deep learning framework for denoising the FORGE DAS dataset with different types of noise. It has an U-shaped structure, containing several downsampling convolutional blocks (DCB) and upsampling convolutional blocks (UCB). **FCDNet** has been demonstrated on invisible, wakly visible, and visible signals denoising immediately and efficiently. 
+**FCDNet** is a supervised-learning-based deep learning framework for denoising the FORGE DAS dataset with different types of noise. It has an U-shaped structure, containing several downsampling convolutional blocks (DCB) and upsampling convolutional blocks (UCB). **FCDNet** has been demonstrated on invisible, weakly visible, and visible signals denoising immediately and efficiently. 
 
 ------------------- 
 ## Reference
@@ -46,7 +46,7 @@ BibTeX:
 
 -------------------   
 ## Example
-   The [best trained model](https://github.com/YangLiuqing-add/DAS-FCDNet/releases/tag/best_model) can be downloaded directly. Test_data only display three real DAS data, which are invisible, weak visible, and visible signals. 
+   The [best trained model](https://github.com/YangLiuqing-add/DAS-FCDNet/releases/tag/best_model) can be downloaded directly. Test_data only display three real DAS data, which are invisible, weakly visible, and visible signals. 
    All FORGE DAS data can be downloaded [here](https://github.com/chenyk1990/dasdenoising-dataonly).
    
 -------------------   
